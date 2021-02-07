@@ -1,6 +1,6 @@
 # jwdobken-charts
 
-My repo for some public helm charts
+some of my public helm charts
 
 To add these Charts for your local client, run helm repo add:
 
