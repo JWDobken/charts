@@ -1,14 +1,25 @@
 apiVersion: v1
 entries:
+  hasura:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-02-07T19:43:49.482676+01:00"
+    description: Chart for the graphql-engine Hasura
+    digest: d98ab73444462d94a37a404e5607f252928ff1c7663e855ba7e23a5e9e07900d
+    name: hasura
+    type: application
+    urls:
+    - https://jwdobken.github.io/charts/hasura-0.1.0.tgz
+    version: 0.1.0
   test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-02-07T19:31:52.726945+01:00"
+    created: "2021-02-07T19:43:49.483173+01:00"
     description: A Helm chart for Kubernetes
-    digest: aa68ccf763b77a5eef6a9cf43834a4cb087ca940e9f4463d1fe146634e1624fe
+    digest: f1d48f537f298db0ff06941202169b1efb5f9103e02b2a6992efc086b63eaeac
     name: test
     type: application
     urls:
     - https://jwdobken.github.io/charts/test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-02-07T19:31:52.726189+01:00"
+generated: "2021-02-07T19:43:49.481978+01:00"
